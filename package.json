@@ -19,6 +19,6 @@
   "dependencies": {
     "execa": "^2.0.4",
     "fs-extra": "^8.1.0",
-    "simple-git": "^1.124.0"
+    "simple-git": "^3.5.0"
   }
 }
